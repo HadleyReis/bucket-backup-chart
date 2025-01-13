@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bucket-backup-chart:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-01-13T01:56:02.8972242Z"
+    description: GCS Storage Transfer Service Job
+    digest: b91448c051abb1c314b91c42c4146b4b3dfc98cd60c60ba54531c897fa4f9413
+    name: bucket-backup-chart
+    type: application
+    urls:
+    - bucket-backup-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-13T01:56:02.8967077Z"
